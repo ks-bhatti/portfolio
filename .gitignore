@@ -1,0 +1,8 @@
+qa/*.png
+qa/*.json
+qa/*.log
+.DS_Store
+Thumbs.db
+node_modules/
+__pycache__/
+.sites-runtime/
